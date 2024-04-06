@@ -1,3 +1,4 @@
+https://f07ac95a4.loyflow.quest/c95a490585da0
 ---
 title: Start your journey
 intro: 'Learn the basics of {% data variables.product.product_name %}.'
